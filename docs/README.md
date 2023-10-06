@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 slug: /
-title: 'Flight Path | <solution>'
+title: 'Flight Path | Client Engineering - How We Work'
 ---
 [![Site Build](https://github.com/ibm-client-engineering/solution-filenet-aws/actions/workflows/deploy.yml/badge.svg)](https://github.com/ibm-client-engineering/solution-filenet-aws/actions/workflows/deploy.yml)
 
@@ -17,7 +17,7 @@ graph LR;
 ```
 
 #### Flight Path
-This is a living document for an adoption journey that synthesizes the best practices from IBM when considering and implementing **`solution`**
+This is a living document that is intending to chronicle how we document and implement solutions in IBM Client Engineering.
 
 #### Working In The Open
 
